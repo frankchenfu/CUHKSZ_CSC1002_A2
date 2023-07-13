@@ -15,3 +15,6 @@ Please kindly note that there are some restrictions if you want to use this arch
 * You are allowed to download, read, modify, or share my solution (`connectfour.py`) freely.
 * You are allowed to download or read the problem statement (`connectfour.pdf`) freely.
 * You are **NOT** allowed to modify, copy, or share the problem statement without permission from the professors who taught this course in CUHK(SZ).
+
+### Prerequisite
+* package: `turtle`
